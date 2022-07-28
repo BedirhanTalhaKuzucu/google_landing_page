@@ -16,8 +16,4 @@ https://bedirhantalhakuzucu.github.io/google_landing_page/
 		|----googlelogo.png
 		|----icon-menu.jpg
 		|----magnifying_glass.png
-|----solution
-        |----index.html  
-        |----style.css   
-        |----images
 ```
